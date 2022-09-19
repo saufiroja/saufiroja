@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Muhammad Saufi Roja, I'm a Backend Engineer :man_technologist: I am currently 21 years old and I live in Banjarmasin, South Kalimantan. I started learning about web programming in 2021 with my first language being javascript, but now I'm more interested and explore a lot about backend development.
+I'm Muhammad Saufi Roja, I'm a Backend Development :man_technologist: I am currently 21 years old and I live in Banjarmasin, South Kalimantan. I started learning about web programming in 2021 with my first language being javascript, but now I'm more interested and explore a lot about backend development.
 
 - **Learning :** I'm currently learning about Backend Development, Go language, and Docker :man_technologist:
 - **Skill :** JavaScript, Typescript, Docker, NodeJS, postgreSQL, NestJS, Go

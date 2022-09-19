@@ -2,16 +2,12 @@
 I'm Muhammad Saufi Roja, I'm a Backend Engineer :man_technologist: I am currently 21 years old and I live in Banjarmasin, South Kalimantan. I started learning about web programming in 2021 with my first language being javascript, but now I'm more interested and explore a lot about backend development.
 
 - **Learning :** I'm currently learning about Backend Development, Go language, and Docker :man_technologist:
-- **Skill :** JavaScript, Typescript, Docker, NodeJS, postgreSQL, NestJS
+- **Skill :** JavaScript, Typescript, Docker, NodeJS, postgreSQL, NestJS, Go
 - **Hobbies :** Basketball & coding
 - **Fact :** I love one piece so much :pirate_flag:
 
 ## Connect With Me
 <a href="https://www.linkedin.com/in/muhammad-saufi-roja-11427a1b8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-## Games
-![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
 ## 📚 Frameworks, Platforms and Libraries
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)

@@ -1,8 +1,9 @@
 ## Hi there 👋
-I'm Muhammad Saufi Roja, I'm a Backend Development :man_technologist: I am currently 22 years old and I live in Banjarmasin, South Kalimantan. I started learning about web programming in 2021 with my first language being javascript, but now I'm more interested and explore a lot about backend development.
+I am a software developer with experience in developing applications using the Go language and several related technologies such as Redis, MongoDB, and Postgres, docker, graphql, gRPC, as well as the Testify unit testing framework to ensure applications run smoothly.
+I am passionate about exploring the latest technologies and learning about new ways to improve the quality and efficiency of app development. Thank You!
 
-- **Learning :** I'm currently learning about Backend Development, Go language, and Docker :man_technologist:
-- **Skill :** JavaScript, Typescript, Docker, NodeJS, postgreSQL, NestJS, Go
+- **Learning :** I'm currently learning about gRPC, Microservice :man_technologist:
+- **Skill :** Go, Javascript, Typescript, Docker, Redis, GraphQL, MongoDB, PostgreSQL and Elasticsearch
 - **Hobbies :** Basketball & coding
 - **Fact :** I love one piece so much :pirate_flag:
 
@@ -10,17 +11,13 @@ I'm Muhammad Saufi Roja, I'm a Backend Development :man_technologist: I am curre
 <a href="https://www.linkedin.com/in/muhammad-saufi-roja-11427a1b8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## 📚 Frameworks, Platforms and Libraries
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![JAVASCRIPT](https://img.shields.io/badge/Go-323330?style=for-the-badge&logo=go&logoColor=blue)
-![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![POSTGRES](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MONGO](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+<br/>
+![](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
      
 <!--
 **saufiroja/saufiroja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,7 +3,7 @@ I am a software developer with experience in developing applications using the G
 I am passionate about exploring the latest technologies and learning about new ways to improve the quality and efficiency of app development. Thank You!
 
 - **Learning :** I'm currently learning about gRPC, Microservice :man_technologist:
-- **Skill :** Go, Javascript, Typescript, Docker, Redis, GraphQL, MongoDB, PostgreSQL and Elasticsearch
+- **Skill :** Go, C#, Dotnet, Javascript, Typescript, Docker, Redis, GraphQL, MongoDB, PostgreSQL and Elasticsearch
 - **Hobbies :** Basketball & coding
 - **Fact :** I love one piece so much :pirate_flag:
 

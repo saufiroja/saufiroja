@@ -3,11 +3,12 @@ I am a software developer with experience in developing applications using the G
 I am passionate about exploring the latest technologies and learning about new ways to improve the quality and efficiency of app development. Thank You!
 
 - **Learning :** I'm currently learning about gRPC, Microservice and Kubernetes :man_technologist:
-- **Skill :** Go, C#, Dotnet, Javascript, Typescript, Docker, Redis, GraphQL, MongoDB, PostgreSQL and Elasticsearch
+- **Skill :** Docker, Redis, GraphQL, MongoDB, PostgreSQL and Elasticsearch
+- **Language :** Go, C#, Javascript, Typescript
 - **Hobbies :** Basketball & coding
 - **Fact :** I love one piece so much :pirate_flag:
 
-## Connect With Me
+## 📫 How to reach me:
 <a href="https://www.linkedin.com/in/muhammad-saufi-roja-11427a1b8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## 📚 Frameworks, Platforms and Libraries

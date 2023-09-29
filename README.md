@@ -2,8 +2,8 @@
 I am a software developer with experience in developing applications using the Go language and several related technologies such as Redis, MongoDB, and Postgres, docker, graphql, gRPC, as well as the Testify unit testing framework to ensure applications run smoothly.
 I am passionate about exploring the latest technologies and learning about new ways to improve the quality and efficiency of app development. Thank You!
 
-- **Learning :** I'm currently learning about gRPC, Microservice and Kubernetes :man_technologist:
-- **Skill :** Docker, Redis, GraphQL, MongoDB, PostgreSQL and Elasticsearch
+- **Learning :** I'm currently learning about Microservice and Kubernetes :man_technologist:
+- **Skill :** Docker, Redis, GraphQL, gRPC, MongoDB, PostgreSQL and Elasticsearch
 - **Language :** Go, C#, Javascript, Typescript
 - **Hobbies :** Basketball & coding
 - **Fact :** I love one piece so much :pirate_flag:

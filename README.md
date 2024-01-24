@@ -16,7 +16,7 @@ I am passionate about exploring the latest technologies and learning about new w
 
 ### Connect with Me! 🫱🏻‍🫲🏼
 [![Email: saufiroja08@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saufiroja08@gmail.com)&nbsp;
-[![LinkedIn: Muhammad Saufi Roja](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/muhammad-saufi-roja-11427a1b8/))&nbsp;
+[![LinkedIn: Muhammad Saufi Roja](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saufi-roja-11427a1b8)&nbsp;
 [![Twitter: @saufiroja12](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/saufiroja12)&nbsp;
 [![Instagram: @saufiroja_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saufiroja_/)&nbsp;
 ---

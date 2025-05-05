@@ -1,18 +1,29 @@
-## Hi there 👋
-I am a software developer with experience in developing applications using the Go language and several related technologies such as Redis, MongoDB, MySQL, Postgres, docker, graphql, gRPC and RabbitMQ as well as the Testify unit testing framework to ensure applications run smoothly.
-I am passionate about exploring the latest technologies and learning about new ways to improve the quality and efficiency of app development. Thank You!
+## Hi there 👋  
 
-- 🌱 **Learning :** I'm currently learning about Microservice and Kubernetes :man_technologist:
-- 🔭 **Language :** Go, C#, Javascript, Typescript
-- 💬 **Hobbies :** Basketball & coding
-- ⚡ **Fact :** I love one piece so much :pirate_flag:
-- 📫 How to reach me **saufiroja08@gmail.com**
+I am a software developer with experience in building scalable applications using the Go language and various technologies such as Redis, MongoDB, MySQL, Postgres, Docker, GraphQL, gRPC, and RabbitMQ. I use the Testify framework to ensure applications are well-tested and maintainable.
 
-## My Skill 🔥
-[![My Skills](https://skillicons.dev/icons?i=go,cs,js,ts)](https://skillicons.dev) </br>
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,grafana,git)](https://skillicons.dev) </br>
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,elasticsearch)](https://skillicons.dev) </br>
-[![My Skills](https://skillicons.dev/icons?i=dotnet,rabbitmq,prometheus,kafka,postman,graphql)](https://skillicons.dev) </br>
+Lately, I've been diving into the world of **Artificial Intelligence**, especially working with **Large Language Models (LLMs)** like **OpenAI GPT** and **Anthropic Claude**. I enjoy exploring **prompt engineering**, and integrating LLMs into backend systems for tasks like intelligent automation.
+
+- 🌱 **Learning:** Microservices, Kubernetes, and LLM integration  
+- 🤖 **AI Interest:** Prompt engineering, document extraction, contract analysis using LLMs  
+- 🔭 **Language:** Go, C#, JavaScript, TypeScript  
+- 💬 **Hobbies:** Basketball & coding  
+- ⚡ **Fun Fact:** I’m a huge **One Piece** fan! :pirate_flag:  
+- 📫 Reach me at **saufiroja08@gmail.com**
+
+---
+
+## My Skill 🔥  
+
+[![My Skills](https://skillicons.dev/icons?i=go,cs,js,ts)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,grafana,git,ai)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,elasticsearch)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=dotnet,rabbitmq,prometheus,kafka,postman,graphql,express,nodejs)](https://skillicons.dev)  
+
+---
+
+Thanks for visiting!
+
 
 <!--
 ### Connect with Me! 🫱🏻‍🫲🏼
